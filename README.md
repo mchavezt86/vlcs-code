@@ -9,7 +9,7 @@ Contains the main code for transferring video files recorded with *OpenCamera* t
 * `pip install adb-shell`
 * `pip install adb-shell[usb]`
 
-Your mobile phone is required to have the *developer options* enabled as well as the *usb debugging.*
+Your mobile phone is required to have the *developer options* enabled as well as the *usb debugging,* and connected via usb to your computer.
 
 **To use the module** download the file to the same location as your working Python directory.
 Use `from vlcs_mobile import copyVideo`, and then you can just call the `copyVideo()` function, which copies the last recorded video using *OpenCamera* to the Python working directory.
