@@ -18,4 +18,4 @@ Use `from vlcs_mobile import copyVideo`, and then you can just call the `copyVid
 
 Contains an usage example of the vlcs_mobile module. Download it the same location as the vlcs_mobile.py and run it. It will copy the last recorded video using *OpenCamera* and it will reproduce it at a slower rate.
 
-If you have any questions, you can contact Miguel Chavez ([m.a.chaveztapia@tudelft.nl](mailto:m.a.chaveztapia@tudelft.nl))
+If you have any questions, you can contact Miguel Chavez ([m.a.chaveztapia@tudelft.nl](mailto:m.a.chaveztapia@tudelft.nl)).
