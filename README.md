@@ -11,5 +11,11 @@ Contains the main code to be used for transferring video files recorded with *Op
 
 Your mobile phone is required to have the *developer options* enabled as well as the *usb debugging.*
 
-**To use the module** download the file and copy it to the same location as your working Python directory.
-Use `from vlcs_mobile import copyVideo`, and then you can just call the `copyVideo()` function, which copies the last recorded video to the same location.
+**To use the module** download the file to the same location as your working Python directory.
+Use `from vlcs_mobile import copyVideo`, and then you can just call the `copyVideo()` function, which copies the last recorded video using *OpenCamera* to the Python working directory.
+
+### example01.py
+
+Contains an usage example of the vlcs_mobile module. Download it the same location as the vlcs_mobile.py and run it. It will copy the last recorded video using *OpenCamera* and it will reproduce it at a slower rate.
+
+If you have any questions, you can contact Miguel Chavez ([m.a.chaveztapia@tudelft.nl](mailto:m.a.chaveztapia@tudelft.nl))
